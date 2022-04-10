@@ -1,16 +1,14 @@
-# React Native for Web
+# React Native for App
 
-[![npm version][package-badge]][package-url] [![Build Status][ci-badge]][ci-url] [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://reactjs.org/docs/how-to-contribute.html#your-first-pull-request)
 
-"React Native for Web" makes it possible to run [React Native][react-native-url] components and APIs on the web using React DOM.
+"React Native for App" makes it possible to run [React Native][react-native-url] components and APIs on the web using React DOM.
 
 ## Documentation
 
-The [documentation site](https://necolas.github.io/react-native-web/) covers installation, guides, and APIs.
 
 ## Example
 
-And here is a simple example to get you started. The example app includes interactive examples and the [source code](https://github.com/necolas/react-native-web/blob/master/packages/examples) is also available.
+And here is a simple example to get you started. The example app includes interactive examples and the [source code] is also available.
 
 ```js
 import React from 'react';
@@ -59,11 +57,4 @@ To help you get you familiar with the contribution process, there is a list of [
 
 React Native for Web is [MIT licensed](./LICENSE). By contributing to React Native for Web, you agree that your contributions will be licensed under its MIT license.
 
-[package-badge]: https://img.shields.io/npm/v/react-native-web.svg?style=flat
-[package-url]: https://www.npmjs.com/package/react-native-web
-[ci-badge]: https://github.com/necolas/react-native-web/workflows/tests/badge.svg
-[ci-url]: https://github.com/necolas/react-native-web/actions
-[react-native-url]: https://facebook.github.io/react-native/
-[contributing-url]: https://github.com/necolas/react-native-web/blob/master/.github/CONTRIBUTING.md
-[good-first-issue-url]: https://github.com/necolas/react-native-web/labels/good%20first%20issue
-[code-of-conduct]: https://code.facebook.com/codeofconduct
+
